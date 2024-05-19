@@ -1,4 +1,10 @@
 # PDF Viewer App
+
+######  <p align="center">App Icon</p>
+<p align="center">
+<img src="appIcon.png" alt="App Screenshot" width="250" height="250">
+</p>
+
 ## Overview
 ###### The PDF Viewer App is a simple Android application designed to retrieve all PDF files from the device and display them in a RecyclerView. Users can view any PDF file by tapping on its RecyclerView item. Additionally, the app provides the functionality to share PDF files with other apps installed on the device.
 ## Features
